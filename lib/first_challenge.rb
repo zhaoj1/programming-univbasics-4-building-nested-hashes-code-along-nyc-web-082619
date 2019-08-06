@@ -1,6 +1,6 @@
 def first_challenge
    epic_tragedy = {
-     :montague => {"Patriarch", "Matriarch", "Hero", "Hero's Friends"},
-     :capulet => {"Patriarch", "Matriarch", "Heroine", "Heroine's Friends"}
+     :montague => {:patriarch, :matriarch, :hero, :hero_friends},
+     :capulet => {:patriarch, :matriarch, :heroine, :heroine_friends}
    }
 end
